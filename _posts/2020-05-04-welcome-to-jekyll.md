@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: john
 date:   2020-05-04 08:54:33 -0400
-categories: jekyll update
+categories: [ jekyll, update ]
+image: "https://ichef.bbci.co.uk/wwfeatures/live/976_549/images/live/p0/7n/19/p07n19vr.jpg"
+description: "Welcome"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
