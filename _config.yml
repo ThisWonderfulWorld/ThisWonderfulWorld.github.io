@@ -3,7 +3,7 @@ name: "This Wonderful World"
 title: "This Wonderful World"
 description: "Welcome to a world filled with beauty, a wonderful world where peacefulness rings true. Stay with us for a while. Enjoy the sounds of wonder."
 logo: 'images/LogoLarge.png'
-favicon: 'assets/images/LogoLarge.png'
+favicon: 'images/LogoLarge.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'hearourwonderfulworld'
