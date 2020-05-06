@@ -2,9 +2,10 @@
 layout: post
 title: Little Tree by E. E. Cummings
 date: 2020-04-21 13:20:00 +0300
-author: sal
 categories: [ Poems, Cummings ]
-image: assets/images/2.jpg
+image: assets/images/little-tree.jpg
+description: A warm, touching poem about kids who find a small christmas tree
+comments: false
 ---
 little tree
 little silent christmas tree

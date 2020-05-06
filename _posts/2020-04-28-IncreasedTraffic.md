@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: "Increased Traffic on Wonderful World"
 date: 2020-04-28 20:00:00 -0000
-categories: other
+categories: [ other ]
+comments: true
 ---
 We have recently seen a huge uptick in viewers of our website  
 And we are glad that so many people are  

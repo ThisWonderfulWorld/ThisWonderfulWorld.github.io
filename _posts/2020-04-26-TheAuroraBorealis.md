@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: post
 title: "The Aurora Borealis by George MacDonald"
 date: 2020-04-26 7:16:21 -0000
-categories: Poems GeorgeMacDonald
+categories: [ Poems, GeorgeMacDonald ]
+description: Aurora borealis? At this time of year? At this time of day? In this part of the country? Localized entirely within your kitchen?
+comments: false
 ---
 now have i grown a sharpness and an edge
 unto My future nights, and i will cut

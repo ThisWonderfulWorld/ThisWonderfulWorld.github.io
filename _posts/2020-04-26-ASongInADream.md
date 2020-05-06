@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: post
 title: "A Song In a Dream by George MacDonald"
 date: 2020-04-26 7:15:00 -0000
-categories: Poems GeorgeMacdonald
+categories: [ Poems, GeorgeMacdonald ]
+description: I dreamed of a song. It was elsewhere in my mind.
+comments: false
 ---
 I dreamed of a song, i heard it sung;
 in the ear that sleeps not its Music rung.
@@ -24,4 +26,3 @@ in each chord-note of that prophet-song,
 blended in one harmonious throng:
 such a chant, ere my voice has fled from death,
 be it mine to mould of the parting breath.
-

@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: post
 title: "The Corinthian Maid by by Joseph Wright"
 date: 2020-04-26 12:00:00 -0000
-categories: Art JosephWright
+categories: [ Art JosephWright ]
+image: images/TheCorinthianMaid.jpg
+description: A cool art post
+comments: false
 ---
 ![TheCorinthianMaid](/images/TheCorinthianMaid.jpg)

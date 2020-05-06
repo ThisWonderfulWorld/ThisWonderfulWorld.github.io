@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: "The Ruined World"
 date: 2020-04-28 5:00:00 -0000
-categories: other
+categories: [ other ]
+comments: true
 ---
 As we have previously metioned, there is a group calling themselves Ruined World that wants us to shut down
 our website. We declined in our previous post, telling them that we need positive things in these trying

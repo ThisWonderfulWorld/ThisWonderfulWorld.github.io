@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: "Everyone, it's time to end Ruined World!"
 date: 2020-04-30 19:00:00 -0000
-categories: other
+categories: [ other ]
+comments: true
 ---
 Everyone! Ruined world has continued their assault on us no longer!  
 They've continued to attack our emails, break into our servers,  

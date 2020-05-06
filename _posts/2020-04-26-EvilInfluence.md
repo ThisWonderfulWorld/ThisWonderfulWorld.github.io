@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 title: "Evil Influence by George MacDonald"
 date: 2020-04-26 7:20:45 -0000
-categories: Poems GeorgeMacdonald
+categories: [ Poems, GeorgeMacdonald ]
+description: An Evil Influence can come from within, but it may be somewhere else
+comments: false
 ---
-
 'tis not the violent hands alone that bring
 me curse, the ravage, and the downward safety,
 although to these full oft the yawning tomb

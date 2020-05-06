@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "When God Lets My Body Be by E. E. Cummings"
-date: 2020-04-21 13:00:00 -0000
-categories: Poems Cummings
+date: 2020-04-21 13:19:00 +0300
+categories: [ Poems, Cummings ]
+description: "A poem about how life is a never ending cycle"
 ---
 
-wheN god lets my body be
+when god lets Ny body be
 
 from each brave Eye shall sprout a tree
 fruit that dangles therefrom

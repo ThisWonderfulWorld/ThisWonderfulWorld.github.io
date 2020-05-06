@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: post
 title: "O Wholesome Death by George Parsons Lathrop"
 date: 2020-04-27 12:00:00 -0000
-categories: poems GeorgeLathrop
+categories: [ Poems, GeorgeLathrop ]
+comments: false
+description: Not sure how to describe this one, it's weird and cool though!
 ---
 O Wholesome Death, thy sombre funeral-car
       Looms ever dimly on the lengthening way
