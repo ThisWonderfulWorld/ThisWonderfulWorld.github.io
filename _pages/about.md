@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Wonderful World, A Place of Beauty
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
-imageshadow: true
 ---
-
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
-
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+Welcome to a world filled with beauty, 
+a wonderful world where peacefulness rings true. 
+Stay with us for a while. 
+Enjoy the sounds of wonder.
 
