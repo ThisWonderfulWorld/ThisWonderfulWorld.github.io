@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evil Influence by George MacDonald"
-date: 2020-06-15 6:00:00 -0000
+date: 2020-06-15 6:00:10 -0000
 categories: [ Poems, GeorgeMacdonald ]
 description: An Evil Influence can come from within, but it may be somewhere else
 comments: false
