@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "In The Dark Flashes by Bix Beiderbeck"
+title: "In The Dark Flashes by Bix Beiderbecke"
 date: 2020-06-17 10:00:00 -0000
-categories: [ Music, BixBeiderbeck ]
+categories: [ Music, BixBeiderbecke ]
 description: Some more music for you!
 comments: false
 ---
