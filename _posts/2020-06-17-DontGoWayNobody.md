@@ -2,7 +2,7 @@
 layout: post
 title: "Don't Go Way Nobody by Buddy Bolden"
 date: 2020-06-17 10:40:00 -0000
-categories: [ Music, BuddyBolton ]
+categories: [ Music, BuddyBolden ]
 description: We promise this will be one of the last weird music pieces we post
 comments: false
 ---
