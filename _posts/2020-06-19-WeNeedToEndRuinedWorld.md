@@ -3,7 +3,7 @@ layout: post
 title: "Everyone, it's time to end Ruined World!"
 date: 2020-06-19 7:40:00 -0000
 categories: [ other ]
-description: Those who call themselves sleuths. It goes deeper.
+description: Those who call themselves sleuths. Excuse Will's message. Ruined World is the enemy.
 comments: true
 ---
 Everyone! Ruined world has continued their assault on us no longer!  
