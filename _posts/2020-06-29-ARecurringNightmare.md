@@ -13,4 +13,4 @@ The next dreams are the same, but instead of being on the ground, I'm floating i
 
 I tried drawing it this morning. Maybe there's something you all can get out of it. - Will
 
-![A Nightmare](/images/ARecurringNightmare.jpg)
+![A Nightmare](/images/ANightmare.jpg)
