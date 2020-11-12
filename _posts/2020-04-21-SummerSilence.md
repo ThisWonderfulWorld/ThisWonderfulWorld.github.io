@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer Silence"
+title: "Summer Silence by E. E. Cummings"
 date: 2020-04-21 13:20:00 +0300
 categories: [ Poems, Cummings ]
 description: "A poem filled with interesting sounds and descriptive words"
