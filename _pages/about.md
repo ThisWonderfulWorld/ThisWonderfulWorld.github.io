@@ -9,3 +9,5 @@ This website was part of the Scholastic Art and Writing silver medal winning onl
 <br>[Story flowchart](/assets/This_Wonderful_World_Story_1.png)
 <br>[Unofficial recap doc](https://docs.google.com/document/d/1RaBDwXr4-Dc8Hb2dXA4uzvuS2z5YMe4MRvZug4gd2EQ/edit)
 <br>[Creation document](/assets/ThisWonderfulWorldCreationDocument.pdf)
+<br>[Youtube](https://www.youtube.com/channel/UCOx3ngio1QTxOlVPYdo86Vg)
+<br>[Ruined world](https://seeyourruinedworld.com/)
